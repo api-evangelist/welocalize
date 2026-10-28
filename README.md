@@ -64,5 +64,18 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Opal by Welocalize is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
-- https://welocalize.com/
+Opal by Welocalize provides AI‑enhanced language services and the Opal platform, a cloud‑based solution for translation, localization, and content adaptation. The company leverages machine learning to accelerate multilingual content delivery for enterprises, offering APIs for translation, terminology management, and workflow automation. Welocalize serves global brands across technology, finance, and life‑sciences sectors, emphasizing data security and compliance.
+
+**Areas:** Company · Localization · AI · Translation · Enterprise
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://welocalize.com/)
+- [Compliance](https://trust.welocalize.com/)
+- [Status](https://status.welocalize.com/)
+
+## API Evangelist rating
+
+Not yet rated. See [apis.io/providers/welocalize/](https://apis.io/providers/welocalize/).
